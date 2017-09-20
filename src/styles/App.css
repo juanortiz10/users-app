@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.output-box{
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #BBBBBB;
+}
+
+.output-box > p {
+  margin: 0;
+}
